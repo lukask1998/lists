@@ -1,0 +1,11 @@
+Speed test | ArrayList vs LinkedList:
+------------------------------------------
+ArrayList pow:  35888562
+LinkedList add: 12719730
+ArrayList pow:  12416393
+LinkedList pow: 22483377498
+ArrayList sqrt:  1627752
+LinkedList sqrt: 20735672290
+ArrayList ContainsAll:  8207297
+LinkedList ContainsAll: 8465643
+------------------------------------------
